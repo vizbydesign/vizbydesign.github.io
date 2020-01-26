@@ -15,7 +15,8 @@ This is my first attempt to rebuild my site using Markdown.
 Here's what I tried:
   - Create index.html [too much work]
   - create and push index.md [didn't work]
-  - create jeckyl workflow on push
+  - create jeckyl workflow on push [didn't work]
+  - delete index.html and push
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
 
